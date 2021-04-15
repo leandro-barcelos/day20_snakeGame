@@ -5,7 +5,7 @@ from random import randint
 
 screen = Screen()
 screen.setup(width=600, height=600)
-screen.bgpic('bg_image.png')
+screen.bgpic('img/bg_image.png')
 screen.title("Snake Game")
 screen.tracer(0)
 
